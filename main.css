@@ -1,9 +1,10 @@
 @import url('https://fonts.googleapis.com/css?family=Merriweather+Sans:400,800');
 
 html, body {
-    height: 95vh;
+    height: 100%;
     background-color: #DD0B27;
     font-family: 'Merriweather Sans', sans-serif;
+    overflow: hidden;
 }
 
 body {
