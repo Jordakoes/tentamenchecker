@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css?family=Merriweather+Sans:400,800');
+
+html, body {
+    height: 95vh;
+    background-color: #DD0B27;
+    font-family: 'Merriweather Sans', sans-serif;
+}
+
+body {
+    display: grid;
+    justify-items: center;
+    align-content: center;
+}
+
+p, h4 {
+    color: #F7F7F7;
+    margin: .5em;
+}
+
+p {
+    font-size: 3vw;
+}
+
+h4 {
+    font-size: 4vw;
+}
+
+a {
+    text-decoration: none;
+    color: #202020;
+    margin-top: 1em;
+    font-size: 3vw;
+}
