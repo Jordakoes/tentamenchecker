@@ -1,6 +1,6 @@
 today = new Date();
 
-tentamenweek = new Date("April 4, 2019");
+tentamenweek = new Date("June 23, 2019");
 msPerDay = 24 * 60 * 60 * 1000 ;
 timeLeft = (tentamenweek.getTime() - today.getTime());
 
